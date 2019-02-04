@@ -1,4 +1,4 @@
-A javascript challenge.
+A javascript challenge. https://docs.google.com/document/d/1P1S3KBnb2EUNiREkuCFlBcNdZAz1MOCQ-028mniyCDs/edit
 
 
 Test
