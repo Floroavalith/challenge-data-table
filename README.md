@@ -21,7 +21,8 @@ El data table debe mostrar toda la información de cada contacto.
 El data-table debe tener un botón de delete, para eliminar un contacto existente.
 El data-table debe tener un botón de create, para agregar un nuevo contacto.
 
-Requerimiento Form de creación
+Requerimiento Form de creación.
+
 Realizar el desarrollo de un formulario de registro para contactos con los siguientes campos (Nombre,
 Apellido, Email, Fecha de nacimiento, País y Teléfono) teniendo en cuenta que:
 Todos los campos son requeridos
