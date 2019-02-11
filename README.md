@@ -8,6 +8,9 @@ de su preferencia. En dicho repositorio dejar el código fuente de lo desarrolla
 Una vez finalizado el test envíanos la URL junto con un pequeño instructivo de como instalarlo
 localmente (Esto puede ser mediante un archivo README.md)
 
+Para instalarlo, clonar el siguiente repositorio: https://github.com/Floroavalith/challenge-data-table.git
+Solo bastara ejecutar index.html.
+
 Utilizar https://jsonplaceholder.typicode.com como API.
 
 Para el front hay que implementar una solución en JavaScript puro.
